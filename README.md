@@ -17,7 +17,7 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 Haarcascades file:-
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
-Steps to Run :-
+Steps to run :-
 First Run Emotion_recognition.py => python Emotion_recognition.py
 Then run videotester.py => python videotester.py
 
