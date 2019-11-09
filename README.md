@@ -4,9 +4,13 @@ Facial Expression Recognition (Using Webcam)
 Libraries Used :-
 
 Keras
+
 Open-CV
+
 Numpy
+
 Tensorflow
+
 Pandas
 
 
@@ -19,6 +23,7 @@ https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_front
 
 Steps to run :-
 First Run Emotion_recognition.py => python Emotion_recognition.py
+
 Then run videotester.py => python videotester.py
 
 
